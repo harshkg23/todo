@@ -47,11 +47,7 @@ MIT License © 2025 Harsh Kumar Gupta
 
 ---
 
-## 🎯 Why This README is Useful?
-✅ **Clear Steps** to install and run.  
-✅ **Troubleshooting Guide** for common errors.  
-✅ **Deployment Instructions** for Vercel.  
-✅ **Well-Formatted & Easy to Follow**  
+
 
 
 
